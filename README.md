@@ -1,6 +1,9 @@
-## D-shop (Decentralized shop)
+## D-shop Catalog (Decentralized shop)
 
-This repository is the frontend of the decentralized shopping application.
+
 
 ### Tech-stack used for frontend:
 Next.Js and BootStrap
+
+### @ BackEnd:
+node js , mongodb
